@@ -1,0 +1,6 @@
+timm==1.0.15
+transformers==4.50.0
+mamba-ssm
+einops==0.8.1
+requests==2.32.3
+Pillow==11.1.0
